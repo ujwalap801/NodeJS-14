@@ -7,7 +7,7 @@
 // OR
 
 
-const {calculateSum, calculateMultiply} = require("./ESModules/calculate");
+const {calculateSum, calculateMultiply} = require("./calculate");
 
 calculateSum(10, 5);
 
